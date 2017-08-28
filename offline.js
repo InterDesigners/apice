@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503008420,
+	"version": 1503938947,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,7 +8,6 @@
 		"images/tiledbackground.png",
 		"images/brick-sheet0.png",
 		"images/brick-sheet1.png",
-		"images/brick-sheet2.png",
 		"images/brickspawner-sheet0.png",
 		"images/camera-sheet0.png",
 		"images/bgfront.png",

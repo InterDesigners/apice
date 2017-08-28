@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1503008420
+#1503938947
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -7,7 +7,6 @@ offlineClient.js
 images/tiledbackground.png
 images/brick-sheet0.png
 images/brick-sheet1.png
-images/brick-sheet2.png
 images/brickspawner-sheet0.png
 images/camera-sheet0.png
 images/bgfront.png
