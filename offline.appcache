@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1505256484
+#1505348468
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -7,6 +7,7 @@ offlineClient.js
 images/tiledbackground.png
 images/brick-sheet0.png
 images/brick-sheet1.png
+images/brick-sheet2.png
 images/brickspawner-sheet0.png
 images/camera-sheet0.png
 images/bgfront.png
@@ -30,6 +31,17 @@ images/explosao-sheet1.png
 images/gema-sheet0.png
 images/gema-sheet1.png
 images/gemspawner-sheet0.png
+images/energia.png
+images/gemaup-sheet0.png
+images/gemaup-sheet1.png
+images/gemaup-sheet2.png
+images/9patch.png
+images/9patch2.png
+images/peixoto-sheet0.png
+media/gema00.m4a
+media/gema00.ogg
+media/explosao.m4a
+media/explosao.ogg
 media/eric_skiff_-_08_-_ascending.m4a
 media/eric_skiff_-_08_-_ascending.ogg
 media/eric_skiff_-_06_-_searching.m4a
