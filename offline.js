@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1507594121,
+	"version": 1510250618,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,10 @@
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/spr_drone-sheet0.png",
+		"images/setal-sheet0.png",
+		"images/setal-sheet1.png",
+		"images/setar-sheet0.png",
+		"images/setar-sheet1.png",
 		"media/gema00.m4a",
 		"media/gema00.ogg",
 		"media/explosao.m4a",
